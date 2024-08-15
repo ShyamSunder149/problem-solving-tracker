@@ -1,0 +1,1 @@
+export const cardClasses = "border-solid border-2 border-black p-4 rounded-lg shadow-lg";
